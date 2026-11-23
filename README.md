@@ -16,6 +16,7 @@ when you clone the repository; keep them in the `data/` directory.
 |---|---|
 | `Periderm.RDS` | Processed Seurat object of the periderm snRNA-seq dataset (also available on GEO) |
 | `SI_raw_counts.txt` | Bulk raw count matrix (SI samples) |
+| `EI_raw_counts.txt` | Bulk raw count matrix (EI samples) |
 | `EI_TPM_matrix.txt` | Bulk TPM matrix (EI samples) |
 | `SI_TPM_matrix.txt` | Bulk TPM matrix (SI samples) |
 | `hvg.csv` | Highly variable genes used for cortex scoring analysis (`15_snRNAseq_scoring_analysis.R`) |

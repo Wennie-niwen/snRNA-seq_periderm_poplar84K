@@ -1,0 +1,73 @@
+Source,Target,Group
+cutin biosynthetic process,CER4,Stage I
+cutin biosynthetic process,SHN1,Stage I
+intracellular water homeostasis,WAK2,Stage I
+intracellular water homeostasis,WAK3,Stage I
+intracellular water homeostasis,WAK1,Stage I
+intracellular water homeostasis,WAKL2,Stage I
+cutin biosynthetic process,CYP77B1,Stage I
+cutin biosynthetic process,CYP77A4,Stage I
+secondary metabolite biosynthetic process,CYP77B1,Stage I
+secondary metabolite biosynthetic process,CYP77A4,Stage I
+secondary metabolite biosynthetic process,CER4,Stage I
+secondary metabolite biosynthetic process,CAD9,Stage I
+water transport,PIP1A,Stage I
+water transport,SIP2;1,Stage I
+water transport,TIP1;3,Stage I
+cuticle development,LTPG1,Stage I
+cuticle development,CER3,Stage I
+cuticle development,ANL2,Stage I
+peptide biosynthetic process,RPS18C,Stage II
+peptide biosynthetic process,RPL18,Stage II
+peptide biosynthetic process,LSP1,Stage II
+ribosome assembly,EMB93,Stage II
+organelle assembly,LSM3B,Stage II
+ribosome assembly,PPAN,Stage II
+peptide biosynthetic process,RS27A,Stage II
+ribosome assembly,RS27A,Stage II
+organelle assembly,RS27A,Stage II
+mitotic G1 DNA damage checkpoint signaling,RS27A,Stage II
+mitotic G1/S transition checkpoint signaling,RS27A,Stage II
+peptide biosynthetic process,RPL16A,Stage II
+ribosome assembly,RPL16A,Stage II
+organelle assembly,RPL16A,Stage II
+peptide biosynthetic process,RPL23AB,Stage II
+ribosome assembly,RPL23AB,Stage II
+organelle assembly,RPL23AB,Stage II
+peptide biosynthetic process,RPS19,Stage II
+ribosome assembly,RPS19,Stage II
+organelle assembly,RPS19,Stage II
+peptide biosynthetic process,BBC1,Stage II
+peptide biosynthetic process,EIF3E,Stage II
+peptide biosynthetic process,EIF3G1,Stage II
+peptide biosynthetic process,PGY1,Stage II
+phenylpropanoid metabolic process,CCoAOMT1,Stage III
+phenylpropanoid metabolic process,CYP86B1,Stage III
+phenylpropanoid metabolic process,CYP86A1,Stage III
+phenylpropanoid metabolic process,PAL2,Stage III
+mitotic cell cycle,CYCD3;1,Stage III
+mitotic cell cycle,CDKB1;2,Stage III
+mitotic cell cycle,CESA9,Stage III
+mitotic cell cycle,CESA1,Stage III
+fatty acid metabolic process,LACS1,Stage III
+fatty acid metabolic process,CYP86B1,Stage III
+fatty acid metabolic process,CYP86A1,Stage III
+phenylpropanoid metabolic process,ABCG2,Stage III
+suberin biosynthetic process,KCS11,Stage III
+suberin biosynthetic process,GPAT5,Stage III
+suberin biosynthetic process,CYP86B1,Stage III
+suberin biosynthetic process,CYP86A1,Stage III
+phenylpropanoid metabolic process,GPAT5,Stage III
+lignin biosynthetic process,CCR1,Stage III
+lignin biosynthetic process,MYB63,Stage III
+phenylpropanoid metabolic process,CCR1,Stage III
+phenylpropanoid metabolic process,MYB63,Stage III
+phenylpropanoid metabolic process,CAD1,Stage III
+lignin biosynthetic process,CAD1,Stage III
+suberin biosynthetic process,ABCG16,Stage III
+phenylpropanoid metabolic process,ABCG16,Stage III
+phenylpropanoid metabolic process,IRX12,Stage III
+lignin biosynthetic process,IRX12,Stage III
+phenylpropanoid metabolic process,BGLU46,Stage III
+lignin biosynthetic process,BGLU46,Stage III
+mitotic cell cycle,CDKB1;2,Stage III

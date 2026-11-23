@@ -15,7 +15,7 @@ outdir2   <- "plots"
 
 if(!dir.exists(outdir2)) dir.create(outdir2, recursive = TRUE)
 
-# 1. Read network data (assuming file name is network_data_group.csv)
+# 1. Read network data
 df <- read.csv(file.path(data_dir, "network_data_group.csv"), stringsAsFactors = FALSE)
 
 # 2. Define a function to draw the circular network for a specific group
